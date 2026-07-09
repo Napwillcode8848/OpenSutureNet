@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 80" width="740" height="80">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1F7052"/>
+      <stop offset="50%"  stop-color="#E3DD40"/>
+      <stop offset="100%" stop-color="#59BD9C"/>
+    </linearGradient>
+  </defs>
+  <text
+    x="50%" y="58"
+    font-family="Georgia, serif"
+    font-size="60"
+    font-weight="700"
+    text-anchor="middle"
+    fill="url(#g)"
+  >OpenSutureNet</text>
+</svg>
