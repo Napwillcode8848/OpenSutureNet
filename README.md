@@ -24,7 +24,12 @@
 
 ## Project Overview
 
-This repository contains the official codebase for a research project conducted at the **SHN Research Institute, Grover Lab**, developing a complete computational pipeline for analyzing student-performed open suturing videos. We analyze over **314 videos** from the **AIxSuture dataset**, focusing on building a robust and scalable pipeline for objective open suturing skill assessment.
+This repository contains the official codebase for a research project conducted at the **SHN Research Institute, Grover Lab**. The project, proposed by Napasorn (Pongpang) Kao-ian, presents a complete computational pipeline for analyzing student-performed open suturing videos. We analyze over 314 videos from the AIxSuture dataset, focusing on building a robust and scalable pipeline for objective assessment of open suturing skills.
+
+<div align="center">
+  <img src="assets/overview.jpg" alt="Introduction">
+</div>
+
 
 ---
 
