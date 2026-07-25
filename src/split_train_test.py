@@ -1,3 +1,8 @@
+"""
+This file provides functions for scripts for defining student ids
+and video ids that will be used for train and test split.
+The script should be run only once, since the video id is picked randomly.
+"""
 import csv
 import random
 
