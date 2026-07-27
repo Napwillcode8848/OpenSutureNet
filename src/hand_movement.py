@@ -1,9 +1,14 @@
 """This file provides function that will be used for
 trancking hand movements.
 1. extract frames
-2. segment gloves
-3. point to track
-- centroid
+2. segment gloves based on color treshold
+3. morphological clean up
+4. fill in holes
+5. remove small noise region
+6. extract points to track
+- contours
+- left centroid
+- right centroid
 """
 import cv2
 import matplotlib.pyplot as plt
